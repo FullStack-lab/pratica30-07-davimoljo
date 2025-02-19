@@ -1,0 +1,6 @@
+/* Define o estilo para o corpo da página */
+body {
+    margin: 0; /* Remove a margem padrão do body */
+    height: 100vh; /* Define a altura da viewport para 100% da altura da tela */
+    background: linear-gradient(#2A00B7, #42006C); /* Define um gradiente de fundo */
+}
